@@ -1,6 +1,9 @@
 # 💫 About Me:
 Estoy estudiando el Grado Superior de Administración de Sistemas Informáticos y Redes.<br><br>Me encantan los videojuegos y la música.<br><br>Respecto a la informática, me encanta Python, SQL y las redes.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ivanruiperezb&label=Profile%20views&color=0e75b6&style=flat" alt="ivanruiperezb" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanruiperezbenitez) 
